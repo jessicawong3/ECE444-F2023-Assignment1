@@ -9,4 +9,11 @@
 ![image](https://github.com/jessicawong3/ECE444-F2023-Assignment1/assets/71729026/3b8e0b24-0cd5-40b8-b353-ac6df7f73b37)
 ![image](https://github.com/jessicawong3/ECE444-F2023-Assignment1/assets/71729026/aff61f5e-a544-455b-81b3-d6b9d41c0fa9)
 
+# Activity 4
+![image](https://github.com/jessicawong3/ECE444-F2023-Assignment1/assets/71729026/d9a275b3-386f-4418-a237-b2f16062500b)
+![image](https://github.com/jessicawong3/ECE444-F2023-Assignment1/assets/71729026/c19e9d64-3874-41ba-b8c5-b1b1012ed1b4)
+![image](https://github.com/jessicawong3/ECE444-F2023-Assignment1/assets/71729026/d65864d9-e59b-41c0-b53a-e9c680fb9eca)
+
+
+
 
