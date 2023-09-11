@@ -14,6 +14,15 @@
 ![image](https://github.com/jessicawong3/ECE444-F2023-Assignment1/assets/71729026/c19e9d64-3874-41ba-b8c5-b1b1012ed1b4)
 ![image](https://github.com/jessicawong3/ECE444-F2023-Assignment1/assets/71729026/d65864d9-e59b-41c0-b53a-e9c680fb9eca)
 
+# Activity 5
+![image](https://github.com/jessicawong3/ECE444-F2023-Assignment1/assets/71729026/7e6f051f-ac48-4a46-afae-9be29f323ac7)
+![image](https://github.com/jessicawong3/ECE444-F2023-Assignment1/assets/71729026/230c03ea-f8f7-45d7-826c-9cb0ffa6fe54)
+(changed order of "pick" commits in interactive rebase editor)
+
+![image](https://github.com/jessicawong3/ECE444-F2023-Assignment1/assets/71729026/fa703e45-e481-4e24-9e03-8c73a1f0d78c)
+
+
+
 
 
 
